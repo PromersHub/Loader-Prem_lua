@@ -13,8 +13,8 @@ local LocalPlayer = Players.LocalPlayer
 -- ============================================================
 -- CONFIG
 -- ============================================================
-local PASTEL_FILL    = Color3.fromRGB(235, 200, 255)
-local PASTEL_OUTLINE = Color3.fromRGB(240, 220, 255)
+local PASTEL_FILL    = Color3.fromRGB(20, 20, 20)
+local PASTEL_OUTLINE = Color3.fromRGB(255, 255, 255)
 local TARGET_NAME    = "MengHub_InvisibilityFX"
 local HOTKEY         = Enum.KeyCode.G
 local INVIS_URL      = "https://leekguy.vercel.app/roblox/menghub/crack_obf_invisible_93978595733734.lua"
